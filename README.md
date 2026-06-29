@@ -21,8 +21,13 @@ Initial particles can be introduced within the satisfied mesh for transient calc
    - `SPAN`：注入间隔（时间步）
    - 条件判断：修改 `if (center[1] > 0)` 为你的物理条件。
 4. **运行计算**：瞬态模拟开始后，粒子将自动按设定注入。
+   
+   **详细说明见 `INSTRUCTION.md`**。
 
-**详细说明见 `INSTRUCTION.md`**。
+## 环境要求
+- Ansys Fluent **2021 R1**（作者测试的版本，理论上各个版本都可使用，但代码可能需要做细微修改）
+
+
 
 ## 许可
 
@@ -60,6 +65,11 @@ Ideal for modeling dynamic nucleation processes such as cavitation, crystal prec
    - `SPAN`: Injection interval (time step)
    - Condition judgment: Modify `if (center[1] > 0)` to your physical conditions.
 4. **Run Simulation**: After starting the transient simulation, particles will be automatically injected according to the set parameters.
+   
+   **Details are in `INSTRUCTION.md`**.
+
+## Environmental Requirements
+- Ansys Fluent **2021 R1** (the version tested by the author, theoretically applicable to all versions, but code may require minor modifications)
 
 ## License
 This project is licensed under the MIT License.  
