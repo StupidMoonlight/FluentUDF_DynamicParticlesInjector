@@ -29,8 +29,14 @@ This project is licensed under the MIT License.
 You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.  
 See the `LICENSE` file for full details.
 
-## Feedback & Contributions
-If you find this project helpful, or would like to share how you use it (including in commercial projects), feel free to open an Issue or start a Discussion. Your feedback helps me improve the project continuously. Thank you!
+## Feedback & Citation
+### Commercial Use
+If you are using this project in a commercial product, we welcome you to share your story via Issues or Discussions.  
+It helps us understand real-world usage and prioritize improvements.
+### Academic Use
+If you use this project in academic research or a paper, please cite it.  
+A citation format will be added soon (once the Zenodo record is set up).  
+Thank you for supporting open-source research!
 
 ---
 
@@ -52,9 +58,16 @@ If you find this project helpful, or would like to share how you use it (includi
 
 本项目采用 MIT 许可证。你可以自由使用、修改、商用，详情请见 LICENSE 文件。
 
-## 反馈与合作
+## 反馈与引用
 
-如果你在项目中使用了本代码（无论个人还是商业用途），并愿意分享你的经验或想法，欢迎通过 [Issues](链接) 或 [Discussions](链接) 告诉我们。你的反馈对项目持续改进非常宝贵！
+### 商业用途
+如果你在商业项目中使用本代码，欢迎通过 Issues 或 Discussions 分享你的使用场景。  
+这能帮助我们了解实际应用并优先改进。
+
+### 学术用途
+如果你在学术研究或论文中使用本项目，请引用它。  
+引用格式将在 Zenodo 记录创建后补充。  
+感谢你对开源研究的支持！
 
 ---
 
