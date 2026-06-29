@@ -1,6 +1,7 @@
 # FluentUDF_DynamicParticlesInjector
 Initial particles can be introduced within the satisfied mesh for transient calculations to simulate flow phenomena triggered by a small number of free nuclei, such as condensation of a small amount of water vapor, solute precipitation and aggregation in saturated solution transport, and cavitation with a small amount.
 # DynamicParticlesInjector
+[![DOI](https://zenodo.org/badge/1283160769.svg)](https://doi.org/10.5281/zenodo.21035852)
 
 ## 中文简介
 **DynamicParticlesInjector** 是一个 Ansys Fluent UDF 代码，用于在**任意满足瞬态物理条件**的网格单元质心处随机注入预设的 DPM 粒子。  
@@ -41,7 +42,7 @@ Initial particles can be introduced within the satisfied mesh for transient calc
 
 ### 学术用途
 如果你在学术研究或论文中使用本项目，请引用它。  
-引用格式将在 Zenodo 记录创建后补充。  
+引用格式将在 **Zenodo** 记录。  
 感谢你对开源研究的支持！
 
 ---
@@ -82,7 +83,7 @@ If you are using this project in a commercial product, we welcome you to share y
 It helps us understand real-world usage and prioritize improvements.
 ### Academic Use
 If you use this project in academic research or a paper, please cite it.  
-A citation format will be added soon (once the Zenodo record is set up).  
+A citation format will be added in **Zenodo**.  
 Thank you for supporting open-source research!
 
 ---
